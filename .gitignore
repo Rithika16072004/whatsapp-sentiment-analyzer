@@ -1,0 +1,25 @@
+# ❌ Python bytecode
+__pycache__/
+*.py[cod]
+
+# ❌ Virtual environment
+.venv/
+env/
+venv/
+
+# ❌ Jupyter and IPython junk
+.ipynb_checkpoints/
+
+# ❌ Output folder
+output/
+*.png
+
+# ❌ System files
+.DS_Store
+Thumbs.db
+
+# ❌ VSCode settings (optional)
+.vscode/
+
+# ❌ Environment config (optional)
+.env
