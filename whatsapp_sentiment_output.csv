@@ -1,0 +1,16 @@
+sender,message,text_sentiment,emoji_sentiment,combined_label,score
+Alice,Hey! Good morning 😊,LABEL_2,POSITIVE,Positive (emoji: POSITIVE),0.94
+Bob,Morning! I'm so tired 😴,LABEL_0,,Negative,0.62
+Alice,Why? Didn't sleep well?,LABEL_0,,Negative,0.84
+Bob,"Yeah, work stress 😔",LABEL_0,,Negative,0.54
+Charlie,Congrats team! We hit the milestone 🎉🎉,LABEL_2,,Positive,0.98
+Alice,That's amazing! So proud 😍,LABEL_2,POSITIVE,Positive (emoji: POSITIVE),0.99
+Dave,Where’s the report? Still waiting 😒,LABEL_1,,Neutral,0.51
+Bob,"Sorry, will send it in 5 mins.",LABEL_1,,Neutral,0.75
+Dave,"Ugh, meetings all day 😩",LABEL_0,,Negative,0.69
+Charlie,Let’s chill over coffee later ☕,LABEL_2,,Positive,0.64
+Bob,I can't make it today 👎,LABEL_0,NEGATIVE,Negative (emoji: NEGATIVE),0.95
+Alice,No worries! Next time 👍,LABEL_2,POSITIVE,Positive (emoji: POSITIVE),0.93
+Charlie,That movie was just ok... 😐,LABEL_0,NEUTRAL,Negative (emoji: NEUTRAL),0.83
+Dave,Totally boring 😑,LABEL_0,,Negative,0.92
+Bob,I actually liked the soundtrack 🎶,LABEL_2,,Positive,0.97
